@@ -1,0 +1,13 @@
+body {
+    background-image: url("https://www.vbetnews.com/wp-content/uploads/2020/02/86f396d27d94ed0262cb7775c16c4328.jpg");
+    background-size: cover;
+
+}
+
+.right{
+  position: absolute;
+  right: 1200px;
+  top: 50px;
+  padding: 10px;
+
+}
